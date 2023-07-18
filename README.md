@@ -36,5 +36,8 @@ SO THAT our own site is optimized for search engines
 
 * Ensure nav links on header are operating as expected
 
+ ## DEPLOYED SITE
+ https://juliannejoi.github.io/HoriseonDebug/
+
   ![image](https://github.com/juliannejoi/HoriseonDebug/assets/118871549/0cf03405-80d9-4fa8-95be-99fe2b72ea8c)
 
