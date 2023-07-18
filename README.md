@@ -1,4 +1,4 @@
-# HoriseonDebug
+# Horiseon Debug
 In this Challenge, a marketing agency has hired us to refactor an existing site to make it more accessible.
 
 ## USER STORY
