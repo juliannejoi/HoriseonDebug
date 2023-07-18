@@ -26,7 +26,7 @@ SO THAT our own site is optimized for search engines
 *WHEN I view the title element
  THEN I find a concise, descriptive title
 
- ## Action Items
+ ## ACTION ITEMS
 
 * Update non=semantic elements to semantic elements in index.html
 
